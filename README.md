@@ -5,5 +5,5 @@ Integrantes:
     Lucas Pereira - https://github.com/PereirarLucas
     Lucas de Oliveira - https://github.com/Oliveiralucass
 
-#VemSerDBC - Daniel Jacon
+#VemSerDBC - Daniel Jacon <br />
 #VemSerDBC - Lucas de Oliveira
