@@ -1,4 +1,4 @@
-#VemSerDBC
+#VemSerDBC - Lucas de Oliveira
 
 Homework #2
 
