@@ -1,5 +1,3 @@
-#VemSerDBC - Lucas de Oliveira
-
 Homework #2
 
 Integrantes:
@@ -8,3 +6,4 @@ Integrantes:
     Lucas de Oliveira - https://github.com/Oliveiralucass
 
 #VemSerDBC - Daniel Jacon
+#VemSerDBC - Lucas de Oliveira
